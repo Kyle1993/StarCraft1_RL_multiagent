@@ -6,7 +6,7 @@ we propose a hierarchical DDPG algorithm to solve the Multi-Agent cooperation pr
 __Main task:__ StarCraft1 small scale combat(unit micro control)  
 __Mian problem:__ Multi-Agent cooperation problem  
 __Performance:__  
-Voide link to youku  
+Voide link to youku:  
 [![youku](https://github.com/Kyle1993/StarCraft1_RL_multiagent/blob/master/Screenshot.png)](http://v.youku.com/v_show/id_XMzYxODMyNzA1Mg==.html?spm=a2hzp.8244740.0.0)
 
 
