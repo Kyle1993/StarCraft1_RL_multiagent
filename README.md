@@ -1,6 +1,6 @@
 # StarCraft1_RL_Multiagent  
 
-##Description
+##Description  
 __This work bases on my master's thesis.__  
 we propose a hierarchical DDPG algorithm to solve the Multi-Agent cooperation problem
 __Main task:__ StarCraft1 small scale combat(unit micro control)  
